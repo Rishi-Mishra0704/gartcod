@@ -1,5 +1,5 @@
 export const calculateTimeToEvent = () => {
-    const eventDate = new Date("2024-01-30T23:59:00-07:00"); // January 31, 2024, 11:59 PM PT
+    const eventDate = new Date("2024-02-01T23:30:00-07:00"); // January 31, 2024, 11:59 PM PT
     const currentDate = new Date();
     const timeRemaining = eventDate.getTime() - currentDate.getTime();
   
