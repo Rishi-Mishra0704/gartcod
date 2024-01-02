@@ -25,7 +25,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Gartcod] <a name="about-project"></a>
+# 📖Gartcod <a name="about-project"></a>
 
 > Gartcod is a simple frontend design for event ticket booking website. It
 > allows users to book tickets
