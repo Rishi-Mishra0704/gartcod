@@ -46,7 +46,7 @@
 
 
 <h3>🚀 Live Demo</h3>
-<a href="https://gartcod-pi.vercel.app/">Live Demo</a>
+<a href="https://gartcod-pi.vercel.app/" target="_blank">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
