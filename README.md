@@ -81,7 +81,9 @@ git clone https://github.com/Rishi-Mishra0704/gartcod
 
 Install this project with:
 
-cd 'project name'
+```bash 
+cd gartcod
+```
 
 ### Install dependencies
 
