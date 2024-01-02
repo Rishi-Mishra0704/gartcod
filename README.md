@@ -31,8 +31,6 @@
 > allows users to book tickets
 
 
-**[Gartcod]**
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
